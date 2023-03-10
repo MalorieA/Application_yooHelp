@@ -74,7 +74,7 @@ const handleDisplayTasks = () => {
 // ----------------------------------------Interf_Utili----------------------------------------
   return (
     <ImageBackground//Background
-      source={require('C:/Users/Acer/Documents/Project_Tasks-main/assets/Pic2_APP.jpeg')}
+      source={require('CC:/Malorie_Project/Application_yooHelp/assets/Pic2_APP.jpeg')}
       style={Styles.container}>
       <View style={Styles.column}>
         <View style={Styles.row}>
